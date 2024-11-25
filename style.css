@@ -95,11 +95,6 @@ body {
     height: calc(100%-100px);
 
 }
-
-head_img img{
-    width: 120px;
-    height: 120px;
-}
 #page1 .title h1 {
     padding-left: 25px;
     font-size: 5vw;
@@ -147,9 +142,9 @@ text-transform: capitalize;
     transition: 0.2s ease-in-out;
     object-fit: cover;
 }
-.head_img img{
-    width: 15px;
-    height: 15px;
+.head_img img {
+    width: 120px;
+    height: 120px;
 }
 .img {
     width: 380px;
