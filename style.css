@@ -142,7 +142,7 @@ text-transform: capitalize;
     transition: 0.2s ease-in-out;
     object-fit: cover;
 }
-.head_img img {
+.logo {
     width: 120px;
     height: 120px;
 }
